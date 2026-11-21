@@ -1,0 +1,30 @@
+[
+  {
+    "deviceName": "HSBC-TOR-LT01",
+    "osVersion": "10.0.26100",
+    "complianceState": "compliant",
+    "daysSinceLastSync": 2,
+    "userPrincipalName": "alex.chen@company.com"
+  },
+  {
+    "deviceName": "HSBC-TOR-LT02",
+    "osVersion": "10.0.22631",
+    "complianceState": "noncompliant",
+    "daysSinceLastSync": 45,
+    "userPrincipalName": "priya.patel@company.com"
+  },
+  {
+    "deviceName": "HSBC-MIS-LT03",
+    "osVersion": "10.0.26100",
+    "complianceState": "compliant",
+    "daysSinceLastSync": 112,
+    "userPrincipalName": "david.smith@company.com"
+  },
+  {
+    "deviceName": "HSBC-MIS-LT04",
+    "osVersion": "10.0.26100",
+    "complianceState": "noncompliant",
+    "daysSinceLastSync": 95,
+    "userPrincipalName": null
+  }
+]
